@@ -1,8 +1,6 @@
 # RpsGame
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/rps_game`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Test in creating a gem. Rock, paper, scissors 1 or 2 player game
 
 ## Installation
 
@@ -22,7 +20,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+
+To run this create a new Game object
+
+RPS::Game.new.play
 
 ## Development
 
@@ -32,5 +33,5 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/rps_game.
+Bug reports and pull requests are welcome on GitHub at https://github.com/andie5/rps_game.
 
